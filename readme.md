@@ -1,12 +1,12 @@
-&lt;img align='right' src="https://github-readme-stats.vercel.app/api?username=vitoria-ribas&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github"&gt;
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=vitoria-ribas&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
 ### Olá, meu nome é Vitoria Ribas! 👋
 
-&lt;img src="https://img.shields.io/static/v1?label=Overview&message=vitoria-ribas&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub"&gt;
+<img src="https://img.shields.io/static/v1?label=Overview&message=vitoria-ribas&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 **Software Engineering Undergraduate | C++ | Competitive Programming | 2° ICPC Brazilian Finalist** 🏆
 
-&lt;p&gt;🏢 Trabalhando na &lt;b&gt;Vale&lt;/b&gt;&lt;br/&gt; 💻 Desenvolvimento de aplicações low-code com Power Apps, SharePoint e Power Automate&lt;br/&gt; 📊 Análise de dados com Excel, Power BI e SharePoint&lt;/p&gt;
+<<>p>🏢 Trabalhando na <b>Vale</b><br/> 💻 Desenvolvimento de aplicações low-code com Power Apps, SharePoint e Power Automate<br/> 📊 Análise de dados com Excel, Power BI e SharePoint</p>
 
 ## 🛠️ Minhas Habilidades
 
