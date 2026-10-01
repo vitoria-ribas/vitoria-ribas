@@ -2,7 +2,7 @@
 
 ### Olá, meu nome é Vitoria Ribas! 👋
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=vitoria-ribas&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+![Overview](https://img.shields.io/badge/Overview-vitoria--ribas-f8efd4?style=for-the-badge&logo=github&logoColor=black)
 
 **Software Engineering Undergraduate | C++ | Competitive Programming | 2° ICPC Brazilian Finalist** 🏆
 
