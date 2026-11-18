@@ -4,7 +4,7 @@
 
 <img src="https://badgen.net/badge/Overview/vitoria-ribas/f8efd4?icon=github" alt="Overview vitoria-ribas">
 
-**Software Engineering Undergraduate | C++ | Competitive Programming | 2° ICPC Brazilian Finalist** 🏆
+**Software Engineering Undergraduate** 
 
 <p>🏢 Trabalhando na <b>Vale</b><br/> 💻 Desenvolvimento de aplicações low-code com Power Apps, SharePoint e Power Automate<br/> 📊 Análise de dados com Excel, Power BI e SharePoint</p>
 
